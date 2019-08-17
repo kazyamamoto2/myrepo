@@ -1,3 +1,2 @@
-test type
-more text
-more more text
+example version for git course at Datacamp
+
